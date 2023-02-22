@@ -1,3 +1,3 @@
-What is a remote repository?
+What is the difference between a merge and a rebase?
 
-Versions of the project that are hosted somewhere else like on GitHub (I think)
+A merge combines the branch into the master and a rebase updates the branch to a later commit that was made after you created the branch
